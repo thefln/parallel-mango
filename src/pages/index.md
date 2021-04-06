@@ -7,7 +7,7 @@ sections:
     background_image: /images/164923903_1102826290205428_1302857595187654930_n.jpg
     background_image_opacity: 65
     content: >
-      # Oh boy here we go!
+      # Oh folks here we go!
 
 
       Don't forget to add your Snipcart API key to the site's configuration to
